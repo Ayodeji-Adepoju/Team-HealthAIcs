@@ -1,0 +1,486 @@
+Category,Species,Biomolecule name,Disease name,Tissue
+metabolite,Homo sapiens,Isoleucine,Diabetes mellitus,
+metabolite,Homo sapiens,Leucine,Diabetes mellitus,
+metabolite,Homo sapiens,Phenylalanine,Diabetes mellitus,
+metabolite,Homo sapiens,Tyrosine,Diabetes mellitus,
+metabolite,Homo sapiens,Valine,Diabetes mellitus,
+metabolite,Homo sapiens,Nitric Oxide,Hyperglycemia,serum
+metabolite,Homo sapiens,Mono(2Ethyl5Carboxypentyl) Phthalate (MECPP),Diabetes mellitus,
+metabolite,Homo sapiens,Mono(2Ethyl5Hydroxyhexyl) Phthalate (MEHHP),Diabetes mellitus,
+metabolite,Homo sapiens,Mono(2Ethyl5Oxohexyl) Phthalate (MEOHP),Diabetes mellitus,
+metabolite,Homo sapiens,Monobenzyl Phthalate (MBzP),Diabetes mellitus,
+metabolite,Homo sapiens,Adenosine,Obesity,serum
+metabolite,Homo sapiens,11?Hydroxyprogesterone,Obesity,urine
+metabolite,Homo sapiens,17Hydroxypregnenolone Sulfate,Obesity,urine
+metabolite,Homo sapiens,5aDihydrotestosterone Sulfate,Obesity,urine
+metabolite,Homo sapiens,Cholesterol,Obesity,
+metabolite,Homo sapiens,Decanoylcarnitine,Obesity,urine
+metabolite,Homo sapiens,Glucosylgalactosyl Hydroxylysine,Obesity,urine
+metabolite,Homo sapiens,LeucylPhenylalanine,Obesity,urine
+metabolite,Homo sapiens,LProlylLProline,Obesity,urine
+metabolite,Homo sapiens,NAcetylornithine,Obesity,urine
+metabolite,Homo sapiens,Testosterone,Obesity,
+metabolite,Homo sapiens,Triglyeride,Obesity,
+metabolite,Homo sapiens,11DehydroTXB2,Diabetes mellitus,heart
+metabolite,Homo sapiens,4Hydroxyphenylacetic Acid,Precocious puberty,urine
+metabolite,Homo sapiens,5Hydroxyindoleacetic Acid,Precocious puberty,urine
+metabolite,Homo sapiens,5Hydroxykynurenamine,Precocious puberty,urine
+metabolite,Homo sapiens,5Hydroxytryptophan,Precocious puberty,urine
+metabolite,Homo sapiens,Indoleacetic Acid,Precocious puberty,urine
+metabolite,Homo sapiens,Aldosterone,Gitelman syndrome,
+metabolite,Homo sapiens,Angiotensin II,Gitelman syndrome,
+metabolite,Homo sapiens,Glycerophosphate,Type II diabetes mellitus,serum
+metabolite,Homo sapiens,3Hydroxybutyric Acid (BHB),Diabetic coma,
+metabolite,Homo sapiens,3Hydroxybutyric Acid (BHB),Type I diabetes mellitus,
+metabolite,Homo sapiens,Glutathione,cobalamin deficiency type C (cblC),lymphocytes/plasma
+metabolite,Homo sapiens,3Aminoisobutyric Acids,Methylmalonate semialdehyde dehydrogenase (MMSDH) deficiency,
+metabolite,Homo sapiens,3Hydroxyisobutyric Acids,Methylmalonate semialdehyde dehydrogenase (MMSDH) deficiency,
+metabolite,Homo sapiens,Lactate,Methylmalonate semialdehyde dehydrogenase (MMSDH) deficiency,
+metabolite,Homo sapiens,Methylmalonic Acid,Methylmalonate semialdehyde dehydrogenase (MMSDH) deficiency,
+metabolite,Homo sapiens,Benzoic Acid,Obesity,serum
+metabolite,Homo sapiens,Betaine,Obesity,serum
+metabolite,Homo sapiens,Glutamine,Obesity,serum
+metabolite,Homo sapiens,Hypoxanthine,Obesity,serum
+metabolite,Homo sapiens,lAspartyllPhenylalanine,Obesity,serum
+metabolite,Homo sapiens,lLeucine,Obesity,serum
+metabolite,Homo sapiens,lMethionine,Obesity,serum
+metabolite,Homo sapiens,lProline,Obesity,serum
+metabolite,Homo sapiens,LysoPC(18:1),Obesity,serum
+metabolite,Homo sapiens,LysoPC(18:2),Obesity,serum
+metabolite,Homo sapiens,LysoPC(20:1),Obesity,serum
+metabolite,Homo sapiens,LysoPC(20:4),Obesity,serum
+metabolite,Homo sapiens,LysoPC(C14:0),Obesity,serum
+metabolite,Homo sapiens,LysoPC(C15:0),Obesity,serum
+metabolite,Homo sapiens,LysoPC(C16:0),Obesity,serum
+metabolite,Homo sapiens,LysoPC(C17:1),Obesity,serum
+metabolite,Homo sapiens,LysoPC(C18:0),Obesity,serum
+metabolite,Homo sapiens,LysoPC(C22:0),Obesity,serum
+metabolite,Homo sapiens,LysoPC(PC16:0),Obesity,serum
+metabolite,Homo sapiens,NPhenylacetamide,Obesity,serum
+metabolite,Homo sapiens,Phenylpyruvic Acid,Obesity,serum
+metabolite,Homo sapiens,Pipecolic Acid,Obesity,serum
+metabolite,Homo sapiens,Pyroglutamic Acid,Obesity,serum
+metabolite,Homo sapiens,Uric Acid,Obesity,serum
+metabolite,Homo sapiens,Valine,Obesity,serum
+metabolite,Homo sapiens,Nitric Oxide,Obesity,serum
+metabolite,Homo sapiens,3Hydroxypropionate,Propionic aciduria,urine
+metabolite,Homo sapiens,Alanine,Propionic aciduria,
+metabolite,Homo sapiens,Glutamate,Propionic aciduria,
+metabolite,Homo sapiens,Glycine,Propionic aciduria,
+metabolite,Homo sapiens,Methylmalonic Acid,Methylmalonic aciduria,plasma/urine
+metabolite,Homo sapiens,2Aminoadipic Acid (2AAA),Diabetes mellitus,plasma
+metabolite,Homo sapiens,Glutathione,Diabetes mellitus,blood
+metabolite,Homo sapiens,Kynurenic Acid,Type II diabetes mellitus,
+metabolite,Homo sapiens,Kynurenine,Type II diabetes mellitus,
+metabolite,Homo sapiens,Tryptophan,Type II diabetes mellitus,
+metabolite,Homo sapiens,MGDerived Hydroimidazolones,Diabetic nephropathy,vessel
+metabolite,Homo sapiens,N?CarboxyethylLysine,Diabetic nephropathy,vessel
+metabolite,Homo sapiens,N?CarboxymethylLysine,Diabetic nephropathy,vessel
+metabolite,Homo sapiens,?Ketoglutarate,Obesity,plasma
+metabolite,Homo sapiens,3Carboxy4Methyl5Propyl2Furanpropanoic Acid (CMPF),Diabetes mellitus,plasma
+metabolite,Homo sapiens,Dichlorodiphenylethylene (DDE),Obesity,serum
+metabolite,Homo sapiens,Dichlorodiphenyltrichloroethane (DDT),Obesity,serum
+metabolite,Homo sapiens,Bile Acids,Aging,plasma
+metabolite,Homo sapiens,Fatty Amides,Aging,plasma
+metabolite,Homo sapiens,Glycerolipids,Aging,plasma
+metabolite,Homo sapiens,Glycerophosphocholine,Aging,plasma
+metabolite,Homo sapiens,Glycerophosphoglycerol,Aging,plasma
+metabolite,Homo sapiens,Isoprenoids,Aging,plasma
+metabolite,Homo sapiens,LCarnitine Ester,Aging,plasma
+metabolite,Homo sapiens,Citrate,Type II diabetes mellitus,urine
+metabolite,Homo sapiens,Hippurate,Type II diabetes mellitus,urine
+metabolite,Homo sapiens,Phenylacetylglutamine,Type II diabetes mellitus,urine
+metabolite,Homo sapiens,Phenylalanine,Type II diabetes mellitus,
+metabolite,Homo sapiens,Tryptophan,Type II diabetes mellitus,urine
+metabolite,Homo sapiens,Uric Acid,Type II diabetes mellitus,urine
+metabolite,Homo sapiens,Xanthine,Type II diabetes mellitus,urine
+metabolite,Homo sapiens,Itaconic Acid,Gestational diabetes mellitus,serum
+metabolite,Homo sapiens,Isopentenyladenosine5'Monophosphate,Type II diabetes mellitus,serum
+metabolite,Homo sapiens,Lysophosphatidylcholine,Type II diabetes mellitus,serum
+metabolite,Homo sapiens,Phosphatidylcholine,Type II diabetes mellitus,serum
+metabolite,Homo sapiens,Arginine,Obesity,serum
+metabolite,Homo sapiens,Histidine,Obesity,serum
+metabolite,Homo sapiens,Palmitic Acid,Obesity,serum
+metabolite,Homo sapiens,Alanine,Gestational diabetes mellitus,plasma
+metabolite,Homo sapiens,Allantoin,Gestational diabetes mellitus,plasma
+metabolite,Homo sapiens,Anthranilic Acid,Gestational diabetes mellitus,plasma
+metabolite,Homo sapiens,Creatinine,Gestational diabetes mellitus,plasma
+metabolite,Homo sapiens,Glutamate,Gestational diabetes mellitus,plasma
+metabolite,Homo sapiens,Serine,Gestational diabetes mellitus,plasma
+metabolite,Homo sapiens,Malondialdehyde,Graves' disease,plasma
+metabolite,Homo sapiens,Glycerol 2Phosphate,Obesity,serum
+metabolite,Homo sapiens,Glycerophosphocholine,Obesity,serum
+metabolite,Homo sapiens,Glycolic Acid,Obesity,serum
+metabolite,Homo sapiens,LKynurenine,Obesity,serum
+metabolite,Homo sapiens,Methyl Palmitate,Obesity,serum
+metabolite,Homo sapiens,Tagatose,Obesity,serum
+metabolite,Homo sapiens,Uric Acid,Obesity,serum
+metabolite,Homo sapiens,Coumestrol,Aging,skin
+metabolite,Homo sapiens,24(S)Hydroxycholesterol,NiemannPick disease type C,plasma/red blood cells
+metabolite,Homo sapiens,25Hydroxycholesterol,NiemannPick disease type C,plasma/red blood cells
+metabolite,Homo sapiens,27Hydroxycholesterol,NiemannPick disease type C,plasma/red blood cells
+metabolite,Homo sapiens,4?Hydroxycholesterol,NiemannPick disease type C,plasma/red blood cells
+metabolite,Homo sapiens,7Ketocholesterol,NiemannPick disease type C,plasma/red blood cells
+metabolite,Homo sapiens,7?Hydroxycholesterol,NiemannPick disease type C,plasma/red blood cells
+metabolite,Homo sapiens,7?Hydroxycholesterol,NiemannPick disease type C,plasma/red blood cells
+metabolite,Homo sapiens,"Cholestan3?,5?,6?Triol",NiemannPick disease type C,plasma/red blood cells
+metabolite,Homo sapiens,Arginine,Osteoarthritis,plasma
+metabolite,Homo sapiens,Arginine,Osteoarthritis,plasma
+metabolite,Homo sapiens,27Hydroxycholesterol,Aging,plasma/red blood cells
+metabolite,Homo sapiens,27Hydroxycholesterol,Hypercholesterolemia,prostate epithelium
+metabolite,Homo sapiens,2Deoxyribonic Acid,Diabetic retinopathy,plasma
+metabolite,Homo sapiens,2Deoxyribonic Acid,Diabetic retinopathy,
+metabolite,Homo sapiens,"3,4Dihydroxybutyric Acid",Diabetic retinopathy,plasma
+metabolite,Homo sapiens,"3,4Dihydroxybutyric Acid",Diabetic retinopathy,
+metabolite,Homo sapiens,Erythritol,Diabetic retinopathy,plasma
+metabolite,Homo sapiens,Erythritol,Diabetic retinopathy,
+metabolite,Homo sapiens,Gluconic Acid,Diabetic retinopathy,plasma
+metabolite,Homo sapiens,Gluconic Acid,Diabetic retinopathy,
+metabolite,Homo sapiens,Ribose,Diabetic retinopathy,plasma
+metabolite,Homo sapiens,Ribose,Diabetic retinopathy,
+metabolite,Homo sapiens,GM1 Gangliosides,Gangliosidosis,fibroblasts
+metabolite,Homo sapiens,Glycine,Huntington's disease,plasma
+metabolite,Homo sapiens,Isoleucine,Huntington's disease,plasma
+metabolite,Homo sapiens,Lysophosphatidylcholine Acyl C20:3,Huntington's disease,plasma
+metabolite,Homo sapiens,Phosphatidylcholine AcylAlkyl C34:0,Huntington's disease,plasma
+metabolite,Homo sapiens,Phosphatidylcholine AcylAlkyl C36:0,Huntington's disease,plasma
+metabolite,Homo sapiens,Serotonin,Huntington's disease,plasma
+metabolite,Homo sapiens,Taurine,Huntington's disease,plasma
+metabolite,Homo sapiens,Valine,Huntington's disease,plasma
+metabolite,Homo sapiens,Glutamate,Hypothyroidism,brain
+metabolite,Homo sapiens,MyoInositol,Hypothyroidism,brain
+metabolite,Homo sapiens,LinoleoylGlycerophosphocholine,Type II diabetes mellitus,plasma
+metabolite,Homo sapiens,Oleic Acid,Type II diabetes mellitus,plasma
+metabolite,Homo sapiens,?Hydroxybutyric Acid,Type II diabetes mellitus,plasma
+metabolite,Homo sapiens,25Hydroxycholecalciferol,Obesity,
+metabolite,Homo sapiens,lLeucine,Huntington's disease,brain
+metabolite,Homo sapiens,lPhenylalanine,Huntington's disease,brain
+metabolite,Homo sapiens,MyoInositol,Huntington's disease,brain
+metabolite,Homo sapiens,Tyrosine,Huntington's disease,brain
+metabolite,Homo sapiens,Acetate,Type I diabetes mellitus,
+metabolite,Homo sapiens,Lactate,Type I diabetes mellitus,
+metabolite,Homo sapiens,nAcetylSugar,Type I diabetes mellitus,
+metabolite,Homo sapiens,Sugar,Type I diabetes mellitus,
+metabolite,Homo sapiens,Acetoacetate,Proteinuria,urine
+metabolite,Homo sapiens,AlphaKetoisovaleric Acid,Proteinuria,urine
+metabolite,Homo sapiens,Citrulline,Proteinuria,urine
+metabolite,Homo sapiens,Dimethylamine,Proteinuria,urine
+metabolite,Homo sapiens,DPalmitylcarnitine,Proteinuria,urine
+metabolite,Homo sapiens,Histidine,Proteinuria,urine
+metabolite,Homo sapiens,Isobutyrate,Proteinuria,urine
+metabolite,Homo sapiens,NMethylnicotinamide,Proteinuria,urine
+metabolite,Homo sapiens,Proline,Proteinuria,urine
+metabolite,Homo sapiens,Valine,Proteinuria,urine
+metabolite,Homo sapiens,Quinolinic Acid,Diabetes mellitus,
+metabolite,Homo sapiens,Xanthurenic Acid,Diabetes mellitus,
+metabolite,Homo sapiens,Capric Acid,Osteoarthritis,Synovial fluid
+metabolite,Homo sapiens,Ethanolamine,Osteoarthritis,Synovial fluid
+metabolite,Homo sapiens,Glycerol,Osteoarthritis,Synovial fluid
+metabolite,Homo sapiens,Heptadecanoic Acid,Osteoarthritis,Synovial fluid
+metabolite,Homo sapiens,Lanosterol,Osteoarthritis,Synovial fluid
+metabolite,Homo sapiens,Malate,Osteoarthritis,Synovial fluid
+metabolite,Homo sapiens,Myristic Acid,Osteoarthritis,Synovial fluid
+metabolite,Homo sapiens,Oleic Acid,Osteoarthritis,Synovial fluid
+metabolite,Homo sapiens,Squalene,Osteoarthritis,Synovial fluid
+metabolite,Homo sapiens,PhosphatidylcholinePC Ae C36:0,Huntington's disease,serum
+metabolite,Homo sapiens,Serine,Huntington's disease,serum
+metabolite,Homo sapiens,Threonine,Huntington's disease,serum
+metabolite,Homo sapiens,Androstenedione,Obesity,serum
+metabolite,Homo sapiens,Androsterone,Obesity,serum
+metabolite,Homo sapiens,Dehydroepiandrosterone,Obesity,serum
+metabolite,Homo sapiens,Progestin,Obesity,serum
+metabolite,Homo sapiens,Acetylcholine,Obesity,plasma
+metabolite,Homo sapiens,Acetylglycine,Obesity,plasma
+metabolite,Homo sapiens,Asparagine,Obesity,plasma
+metabolite,Homo sapiens,Glutamic Acid,Obesity,plasma
+metabolite,Homo sapiens,Glycine,Obesity,plasma
+metabolite,Homo sapiens,Hippuric Acid,Obesity,plasma
+metabolite,Homo sapiens,Kynurenic Acid,Obesity,plasma
+metabolite,Homo sapiens,Leucine,Obesity,plasma
+metabolite,Homo sapiens,Methyl Succinate,Obesity,plasma
+metabolite,Homo sapiens,Serine,Obesity,plasma
+metabolite,Homo sapiens,Urate,Obesity,plasma
+metabolite,Homo sapiens,Urate,Obesity,plasma
+metabolite,Homo sapiens,Xanthine,Obesity,plasma
+metabolite,Homo sapiens,3Methylcrotonylglycine,Diabetic neuropathy,
+metabolite,Homo sapiens,Uracil,Diabetic neuropathy,
+metabolite,Homo sapiens,3?Sulfooxy7Oxo5Cholen24Oic Acid,NiemannPick disease type C,urine
+metabolite,Homo sapiens,3?Sulfooxy7?Hydroxy5Cholen24Oic Acid,NiemannPick disease type C,urine
+metabolite,Homo sapiens,Hydroxyproline,Osteoporosis,serum
+metabolite,Homo sapiens,5Thymidylic Acid,Proteinuria,urine
+metabolite,Homo sapiens,Acetoacetate,Proteinuria,urine
+metabolite,Homo sapiens,Acetoacetate,Proteinuria,urine
+metabolite,Homo sapiens,Anthranilic Acid,Proteinuria,urine
+metabolite,Homo sapiens,Deoxyguanosine Triphosphate,Proteinuria,urine
+metabolite,Homo sapiens,Fumaric Acid,Proteinuria,urine
+metabolite,Homo sapiens,Hexanal,Proteinuria,urine
+metabolite,Homo sapiens,Homocysteine,Proteinuria,urine
+metabolite,Homo sapiens,Hypotaurine,Proteinuria,urine
+metabolite,Homo sapiens,Hypotaurine,Proteinuria,urine
+metabolite,Homo sapiens,Indole,Proteinuria,urine
+metabolite,Homo sapiens,LKynurenine,Proteinuria,urine
+metabolite,Homo sapiens,Mesaconic Acid,Proteinuria,urine
+metabolite,Homo sapiens,Nicotinamide Riboside,Proteinuria,urine
+metabolite,Homo sapiens,Phenylalanine,Proteinuria,urine
+metabolite,Homo sapiens,Retinoic Acid,Proteinuria,urine
+metabolite,Homo sapiens,TransCinnamic Acid,Proteinuria,urine
+metabolite,Homo sapiens,Creatine,Obesity,occipitoparietal grey matter
+metabolite,Homo sapiens,MyoInositol,Obesity,occipitoparietal grey matter
+metabolite,Homo sapiens,NAcetylAspartate,Obesity,occipitoparietal grey matter
+metabolite,Homo sapiens,?Alanine,Hyperglycemia,plasma 
+small molecule,Homo sapiens,HE3286,Type II diabetes mellitus,
+small molecule,Homo sapiens,Pyridoxamine,Diabetic nephropathy,
+small molecule,Homo sapiens,"CP945,598",Obesity,
+small molecule,Homo sapiens,Caffeic Acid,Type II diabetes mellitus,islets
+small molecule,Homo sapiens,Chlorogenic Acid,Type II diabetes mellitus,islets
+small molecule,Homo sapiens,NCGC00229600,Graves' disease,
+small molecule,Homo sapiens,Bisdemethoxycurcumin,Type II diabetes mellitus,
+small molecule,Homo sapiens,?Tocopherol,Fabry disease,
+small molecule,Homo sapiens,?Tocopherol,NiemannPick disease type C,
+small molecule,Homo sapiens,Sapropterin,Phenylketonuria,
+small molecule,Homo sapiens,Guangxitoxin1e,Type II diabetes mellitus,pancreatic islets
+small molecule,Homo sapiens,RY796,Type II diabetes mellitus,pancreatic islets
+small molecule,Homo sapiens,AS1669058,Diabetes mellitus,NIT1 cells
+small molecule,Homo sapiens,Omega3 Fatty Acids,Hyperlipidemia,
+small molecule,Homo sapiens,N(TertButyl) Hydroxylamine (NtBuHA),Neuronal ceroid lipofuscinosis,
+small molecule,Homo sapiens,NAcetylcysteine,Cystinosis,serum
+small molecule,Homo sapiens,TRC210258,Obesity,enteroendocrine cell line
+small molecule,Homo sapiens,Carnitine C10:3,Type II diabetes mellitus,
+small molecule,Homo sapiens,Carnitine C8:1,Type II diabetes mellitus,
+small molecule,Homo sapiens,AMG 221,Type II diabetes mellitus,liver
+small molecule,Homo sapiens,Curcuminoids,Metabolic syndrome,
+small molecule,Homo sapiens,Piperine,Metabolic syndrome,
+small molecule,Homo sapiens,Phenylalanine,Obesity,serum
+small molecule,Homo sapiens,Harmine,Diabetes mellitus,islet cell/blood
+small molecule,Homo sapiens,15KetoProstaglandin F2?,Aging,plasma
+small molecule,Homo sapiens,25HydroxyHexacosanoic,Aging,plasma
+small molecule,Homo sapiens,Diacylglyceride,Aging,plasma
+small molecule,Homo sapiens,Eicosapentaenoic Acid,Aging,plasma
+small molecule,Homo sapiens,L?GlutamyllLeucine,Aging,plasma
+small molecule,Homo sapiens,Phosphocholine,Aging,plasma
+small molecule,Homo sapiens,Phosphoserine,Aging,plasma
+small molecule,Homo sapiens,Resolvin D6,Aging,plasma
+small molecule,Homo sapiens,Acrylamide,Aging,human umbilical vein endothelial cells
+small molecule,Homo sapiens,Glycidamide,Aging,human umbilical vein endothelial cells
+small molecule,Homo sapiens,DPinitol,Diabetic retinopathy,retina
+small molecule,Homo sapiens,[6]Gingerol (6g),Diabetes mellitus,serum
+small molecule,Homo sapiens,[6]Shogaol (6s),Diabetes mellitus,serum
+small molecule,Homo sapiens,Finerenone,Diabetic nephropathy,urine/plasma
+small molecule,Homo sapiens,Psychosine,Krabbe disease,
+small molecule,Homo sapiens,DammarenediolII,Diabetic retinopathy,human umbilical vein endothelial cells
+small molecule,Homo sapiens,MonoLactoseAppended ?CyD (Lac?CyD),NiemannPick disease type C,HepG2 cells
+small molecule,Homo sapiens,PF05190457,Obesity,islets
+small molecule,Homo sapiens,PF05190457,Type II diabetes mellitus,islets
+small molecule,Homo sapiens,SAdenosylmethionine,Homocystinuria,
+small molecule,Homo sapiens,U18666A,NiemannPick disease type C,SUPB15/S cells
+small molecule,Homo sapiens,"4Chloro6(6'Chloro7'Hydroxy2',4',4'TrimethylChroman2'Yl)Benzene1,3Diol (CHTB)",Obesity,
+small molecule,Homo sapiens,CHTB,Obesity,adipose tissue
+small molecule,Homo sapiens,SUKU33,Osteoporosis,bone
+small molecule,Homo sapiens,NCGC607,Gaucher disease,brain
+small molecule,Homo sapiens,Compounds B06,Osteoporosis,bone
+small molecule,Homo sapiens,Compounds B75,Osteoporosis,bone
+small molecule,Homo sapiens,3Epimer ADMDP,Fabry disease,
+small molecule,Homo sapiens,Arimoclomol,NiemannPick disease type C,central nervous system
+small molecule,Homo sapiens,VAK14,Graves' disease,thyroid
+small molecule,Homo sapiens,AKB9778,Diabetic retinopathy,eye
+small molecule,Homo sapiens,JP153,Diabetic retinopathy,eye
+drug,Homo sapiens,Irbesartan,Diabetic nephropathy,
+drug,Homo sapiens,Pitavastatin,Dyslipidemia,HepG2 cells
+drug,Homo sapiens,Ezetimibe,Hypercholesterolemia,
+drug,Homo sapiens,Avosentan,Diabetic nephropathy,
+drug,Homo sapiens,Mipomersen,Hypercholesterolemia,
+drug,Homo sapiens,Eliglustat,Gaucher disease,
+drug,Homo sapiens,Eliglustat,Gaucher disease,
+drug,Homo sapiens,Resveratrol,Type II diabetes mellitus,
+drug,Homo sapiens,Fluocinolone Acetonide,Diabetic macular edema,eyes
+drug,Homo sapiens,Atorvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Pitavastatin,Hypercholesterolemia,
+drug,Homo sapiens,Rosuvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Lapaquistat Acetate,Hypercholesterolemia,
+drug,Homo sapiens,Mitiglinide,Type II diabetes mellitus,intestinal L cells
+drug,Homo sapiens,Nateglinide,Type II diabetes mellitus,intestinal L cells
+drug,Homo sapiens,Tolbutamide,Type II diabetes mellitus,intestinal L cells
+drug,Homo sapiens,Paricalcitol,Diabetic nephropathy,
+drug,Homo sapiens,Pitavastatin,Hypercholesterolemia,
+drug,Homo sapiens,Pitavastatin,Diabetes mellitus,
+drug,Homo sapiens,Pitavastatin,Hypercholesterolemia,
+drug,Homo sapiens,Ezetimibe,Hypercholesterolemia,
+drug,Homo sapiens,Simvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Fenofibrate,Hypercholesterolemia,
+drug,Homo sapiens,Lomitapide,Hypercholesterolemia,
+drug,Homo sapiens,Imiglucerase,Gaucher disease,
+drug,Homo sapiens,Velaglucerase Alfa,Gaucher disease,
+drug,Homo sapiens,Empagliflozin,Type II diabetes mellitus,
+drug,Homo sapiens,Tangshen Formula,Diabetic nephropathy,plasma
+drug,Homo sapiens,Probucol,Hyperlipidemia,
+drug,Homo sapiens,Triptorelin,Precocious puberty,urine
+drug,Homo sapiens,Pitavastatin,Hypercholesterolemia,
+drug,Homo sapiens,Methimazole,Graves' disease,serum
+drug,Homo sapiens,Potassium Bromide,Graves' disease,serum
+drug,Homo sapiens,Bevacizumab,Diabetic macular edema,
+drug,Homo sapiens,Triamcinolone,Diabetic macular edema,
+drug,Homo sapiens,4Phenylbutyrate,Ornithine transcarbamylase deficiency,serum/liver
+drug,Homo sapiens,Mipomersen,Hypercholesterolemia,
+drug,Homo sapiens,Sequoyitol,Diabetes mellitus,HepG2 cells/3T3L1 adipocytes
+drug,Homo sapiens,Vildagliptin,Type II diabetes mellitus,
+drug,Homo sapiens,Mesoglycan,Diabetic retinopathy,
+drug,Homo sapiens,Indomethacin,Gitelman syndrome,
+drug,Homo sapiens,Potassium,Gitelman syndrome,
+drug,Homo sapiens,Spironolactone,Gitelman syndrome,
+drug,Homo sapiens,5Hydroxysaxagliptin,Type II diabetes mellitus,
+drug,Homo sapiens,Saxagliptin,Type II diabetes mellitus,
+drug,Homo sapiens,Levetiracetam,Gaucher disease,
+drug,Homo sapiens,Thiamazole,Hashimoto's thyroiditis,thyroid
+drug,Homo sapiens,Rosiglitazone,Diabetic nephropathy,renal plasma
+drug,Homo sapiens,Dapagliflozin,Type II diabetes mellitus,kidney
+drug,Homo sapiens,Aminothiol,Cystinosis,
+drug,Homo sapiens,Cysteamine,Cystinosis,
+drug,Homo sapiens,Probucol,Hypercholesterolemia,serum
+drug,Homo sapiens,Bromfenac,Diabetic retinopathy,anterior chamber cells
+drug,Homo sapiens,Nepafenac,Diabetic retinopathy,anterior chamber cells
+drug,Homo sapiens,Aripiprazole,Hyperthyroidism,
+drug,Homo sapiens,Pitavastatin,Hypercholesterolemia,blood
+drug,Homo sapiens,Nepafenac,Diabetic retinopathy,
+drug,Homo sapiens,Colesevelam,Hypercholesterolemia,
+drug,Homo sapiens,Cysteamine,Cystinosis,plasma/cerebrospinal fluid/liver/kidney/muscle
+drug,Homo sapiens,Cysteamine,Nonalcoholic fatty liver disease,plasma/cerebrospinal fluid/liver/kidney/muscle
+drug,Homo sapiens,Lomitapide,Hypercholesterolemia,
+drug,Homo sapiens,Levetiracetam,Sialidosis,
+drug,Homo sapiens,Mipomersen,Hypercholesterolemia,
+drug,Homo sapiens,Niacin,Hyperlipidemia,
+drug,Homo sapiens,Levothyroxine,Hypothyroidism,blood
+drug,Homo sapiens,Simvastatin,Hypercholesterolemia,blood
+drug,Homo sapiens,Tazarotene,Acne,blood
+drug,Homo sapiens,Idursulfase Beta,Mucopolysaccharidosis type I (MPS1),urine
+drug,Homo sapiens,Fenofibrate,Hypercholesterolemia,
+drug,Homo sapiens,Penicillamine,Wilson disease,mucosal tissue
+drug,Homo sapiens,Kynamro,Hypercholesterolemia,
+drug,Homo sapiens,Mipomersen,Hypercholesterolemia,
+drug,Homo sapiens,Pegaptanib,Diabetic macular edema,
+drug,Homo sapiens,Colesevelam,Type II diabetes mellitus,
+drug,Homo sapiens,Dioscorea Bulbifera,Diabetic nephropathy,urine/blood
+drug,Homo sapiens,Fosinopril,Diabetic nephropathy,urine/blood
+drug,Homo sapiens,Scutellarin,Diabetic nephropathy,kidney
+drug,Homo sapiens,Valsartan,Diabetic nephropathy,kidney
+drug,Homo sapiens,Betaine,Homocystinuria,
+drug,Homo sapiens,Pravastatin,Hypercholesterolemia,
+drug,Homo sapiens,Valsartan,Hypercholesterolemia,
+drug,Homo sapiens,Amprenavir,Hyperbilirubinemia,
+drug,Homo sapiens,Atazanavir,Hyperbilirubinemia,
+drug,Homo sapiens,Cyclosporine,Hyperbilirubinemia,
+drug,Homo sapiens,Indinavir,Hyperbilirubinemia,
+drug,Homo sapiens,Rifampicin,Hyperbilirubinemia,
+drug,Homo sapiens,Rifamycin SV,Hyperbilirubinemia,
+drug,Homo sapiens,Saquinavir,Hyperbilirubinemia,
+drug,Homo sapiens,Colesevelam,Hypercholesterolemia,
+drug,Homo sapiens,Gliclazide,Diabetes mellitus,blood
+drug,Homo sapiens,Gliclazide,Diabetic retinopathy,blood
+drug,Homo sapiens,Rhein,Diabetic nephropathy,CHO cells/HEK cells
+drug,Homo sapiens,Rhein,Osteoarthritis,CHO cells/HEK cells
+drug,Homo sapiens,Ezetimibe,Hypercholesterolemia,
+drug,Homo sapiens,Tamoxifen,Hypertriglyceridemia,
+drug,Homo sapiens,Ibuprofen,Hyperbilirubinemia,
+drug,Homo sapiens,Lomitapide,Hypercholesterolemia,
+drug,Homo sapiens,Mipomersen,Hypercholesterolemia,
+drug,Homo sapiens,Metformin,Type II diabetes mellitus,
+drug,Homo sapiens,Miglustat,NiemannPick disease type C,
+drug,Homo sapiens,Miglustat,NiemannPick disease type C,
+drug,Homo sapiens,ETC1002,Hypercholesterolemia,
+drug,Homo sapiens,ISU303,Fabry disease,
+drug,Homo sapiens,Hydroquinone,Nonalcoholic fatty liver disease,
+drug,Homo sapiens,Nicotinic Acid,Nonalcoholic fatty liver disease,
+drug,Homo sapiens,Atenolol,Hypercholesterolemia,
+drug,Homo sapiens,Atorvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Evolocumab,Hypercholesterolemia,
+drug,Homo sapiens,Evolocumab,Hypercholesterolemia,
+drug,Homo sapiens,Evolocumab,Hypercholesterolemia,
+drug,Homo sapiens,Mipomersen,Hypercholesterolemia,
+drug,Homo sapiens,Warfarin,Hypercholesterolemia,
+drug,Homo sapiens,Zinc,Acrodermatitis enteropathica,
+drug,Homo sapiens,Hyzetimibe,Hypercholesterolemia,
+drug,Homo sapiens,Tofogliflozin,Type II diabetes mellitus,
+drug,Homo sapiens,Sapropterin Dihydrochloride,Phenylketonuria,
+drug,Homo sapiens,Daptomycin,Hyperbilirubinemia,blood
+drug,Homo sapiens,Ezetimibe,Type II diabetes mellitus,
+drug,Homo sapiens,Lomitapide,Hypercholesterolemia,blood
+drug,Homo sapiens,Clozapine,Type II diabetes mellitus,blood
+drug,Homo sapiens,Olanzapine,Type II diabetes mellitus,blood
+drug,Homo sapiens,Ezetimibe,Hypercholesterolemia,
+drug,Homo sapiens,Colesevelam,Hypercholesterolemia,
+drug,Homo sapiens,Colesevelam,Type II diabetes mellitus,
+drug,Homo sapiens,Amiloride,Fabry disease,
+drug,Homo sapiens,Metformin,Type II diabetes mellitus,
+drug,Homo sapiens,Rosuvastatin,Dyslipidemia,
+drug,Homo sapiens,Rosuvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Lomitapide,Hypercholesterolemia,
+drug,Homo sapiens,Simvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Paricalcitol,Fabry disease,
+drug,Homo sapiens,Rivaroxaban,Hyperbilirubinemia,liver/blood
+drug,Homo sapiens,Canagliflozin,Type II diabetes mellitus,plasma/urine
+drug,Homo sapiens,Elosulfase Alfa,Mucopolysaccharidosis type I (MPS1),
+drug,Homo sapiens,Simvastatin,Hypercholesterolemia,plasma
+drug,Homo sapiens,Efavirenz,Hyperbilirubinemia,plasma
+drug,Homo sapiens,Sapropterin Dihydrochloride,Phenylketonuria,
+drug,Homo sapiens,Elosulfase Alfa,Mucopolysaccharidosis type I (MPS1),
+drug,Homo sapiens,Atorvastatin,Hypercholesterolemia,blood
+drug,Homo sapiens,Ezetimibe,Hypercholesterolemia,blood
+drug,Homo sapiens,Mipomersen,Hypercholesterolemia,plasma
+drug,Homo sapiens,LY2409021,Type II diabetes mellitus,
+drug,Homo sapiens,Buspirone,Phenylketonuria,
+drug,Homo sapiens,Risperidone,Phenylketonuria,
+drug,Homo sapiens,Abacavir,Hypercholesterolemia,
+drug,Homo sapiens,Efavirenz,Hypercholesterolemia,
+drug,Homo sapiens,Emtricitabine,Hypercholesterolemia,
+drug,Homo sapiens,Lamivudine,Hypercholesterolemia,
+drug,Homo sapiens,Tenofovir,Hypercholesterolemia,
+drug,Homo sapiens,Triamcinolone,Diabetic macular edema,retina
+drug,Homo sapiens,Triamcinolone,Diabetic retinopathy,retina
+drug,Homo sapiens,Sapropterin Dihydrochloride,Phenylketonuria,blood
+drug,Homo sapiens,Alirocumab,Hypercholesterolemia,
+drug,Homo sapiens,Olipudase Alfa,NiemannPick disease type B,plasma
+drug,Homo sapiens,Ezetimibe,Hypercholesterolemia,liver
+drug,Homo sapiens,Pitavastatin,Hypercholesterolemia,
+drug,Homo sapiens,Simvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Rosuvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Rosuvastatin,Atherosclerosis,
+drug,Homo sapiens,Rosuvastatin,Dyslipidemia,
+drug,Homo sapiens,Berberine,Diabetic nephropathy,blood
+drug,Homo sapiens,Propylthiouracil,Graves' disease,thyroid gland
+drug,Homo sapiens,Leuprorelin,Precocious puberty,
+drug,Homo sapiens,Ceftriaxone,Hyperbilirubinemia,liver
+drug,Homo sapiens,Levofloxacin,Hyperbilirubinemia,liver
+drug,Homo sapiens,Lomitapide,Hypercholesterolemia,
+drug,Homo sapiens,Dapagliflozin,Type II diabetes mellitus,liver/kidney
+drug,Homo sapiens,Dexamethasone,Diabetic macular edema,retina
+drug,Homo sapiens,Agalsidase,Fabry disease,
+drug,Homo sapiens,Migalastat,Fabry disease,
+drug,Homo sapiens,Fenofibric Acid,Diabetic retinopathy,retinal endothelial cell
+drug,Homo sapiens,Atorvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Ezetimibe,Hypercholesterolemia,
+drug,Homo sapiens,Simvastatin,Hypercholesterolemia,
+drug,Homo sapiens,Eliglustat,Gaucher disease,
+drug,Homo sapiens,Atorvastatin,Hypercholesterolemia,hepatocytes
+drug,Homo sapiens,Fluvastatin,Hypercholesterolemia,hepatocytes
+drug,Homo sapiens,Rosuvastatin,Hypercholesterolemia,hepatocytes
+drug,Homo sapiens,Cholestyramine,Graves' disease,thyroid
+drug,Homo sapiens,Aflibercept,Diabetic macular edema,eyes
+drug,Homo sapiens,Cocaine,Hyperthyroidism,thyroid
+drug,Homo sapiens,Methimazole,Graves' disease,serum
+drug,Homo sapiens,LY2409021,Type II diabetes mellitus,serum
+drug,Homo sapiens,Ezetimibe,Hypercholesterolemia,
+drug,Homo sapiens,Cysteamine,Cystinosis,human proximal tubule epithelial cells
+drug,Homo sapiens,Tacrolimus,Diabetic nephropathy,urine/plasma
+drug,Homo sapiens,Valsartan,Diabetic nephropathy,urine/plasma
+drug,Homo sapiens,Alirocumab,Hyperlipidemia,heart
+drug,Homo sapiens,Bococizumab,Hyperlipidemia,heart
+drug,Homo sapiens,Evolocumab,Hyperlipidemia,heart
+drug,Homo sapiens,Triptorelin,Precocious puberty,serum
+drug,Homo sapiens,Laronidase,Mucopolysaccharidosis type I (MPS1),
+drug,Homo sapiens,Galsulfase,Mucopolysaccharidosis type I (MPS1),
+drug,Homo sapiens,Nitisinone,Alkaptonuria,blood
+drug,Homo sapiens,Allopurinol,Gout,
+drug,Homo sapiens,Allopurinol,Hyperuricemia,
+drug,Homo sapiens,Oxypurinol,Gout,
+drug,Homo sapiens,Oxypurinol,Hyperuricemia,
+drug,Homo sapiens,Empagliflozin,Type II diabetes mellitus,
+drug,Homo sapiens,Metformin,Type II diabetes mellitus,
